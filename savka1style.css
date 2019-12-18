@@ -1,0 +1,139 @@
+body{
+	font-family: 'Sulphur Point', sans-serif; 
+}
+.class1{
+	text-align: center;
+	color: black;
+	background: lightgrey;
+	width: 200px;
+}
+.roblox{
+	width: 70px;
+	height: 70px;
+	border: 2px solid lightgrey;
+}
+.header{
+	display: flex;
+	background: lightgrey;
+	border: 1px solid gray;
+}
+.class1{
+	border: 2px solid gray;
+}
+.p{
+	margin-top: 5px;
+}
+a{
+	border: 1px solid black;
+	background-color: grey;
+	border-radius: 5px;
+	text-decoration: none;
+	color: black;
+	width: 200px;
+	text-align: center;
+	margin-top: 3px;
+}
+a:hover{
+	color: red;
+}
+.a{
+	width: 1500px;
+	height: 1px;
+	display: flex;
+	flex-direction: column; 
+
+}
+.r{
+	margin-left: 220px;
+}
+.block-animation{
+	width: 150px;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+	color: black;
+	border-radius: 30px;
+	font-size: 30px;
+	transition: 2s linear;
+}
+
+.block-animation1{
+	height: 50px;
+	text-align: center;
+	background-color: gray;
+	color: black;
+	border-radius: 30px;
+	font-size: 30px;
+	transition: 1s linear;
+}
+.block-animation1:hover {
+	background-color: lightgray;
+	color: black;
+	border-radius: 40px;
+}
+.l{
+	margin: 0 auto;
+	width: 100%;
+	height: 700px;
+	align-items: center;
+}
+
+.navigation{
+	display: flex;
+	flex-wrap: wrap;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+.navigation a {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin: 5px;
+	width: 14%;
+
+}
+.navigation-red {
+	background: red;
+}
+
+.navigation-red:hover {
+	background-color: orange;
+	color: black;
+	border-radius: 40px;
+}
+.navigation-blue {
+	background: blue;
+}
+
+.navigation-blue:hover {
+	background-color: deepskyblue;
+	color: black;
+	border-radius: 40px;
+}
+.navigation-green {
+	background: green;
+}
+
+.navigation-green:hover {
+	background-color: springgreen;
+	color: black;
+	border-radius: 40px;
+}
+.foto{
+	background-color: lightgrey;
+	margin-left: 220px;
+	margin-right: 25px;
+}
+.f{
+	border: 1px solid black;
+	height: 200px;
+	max-width: 500px; 
+	width: 100%;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
+.bo{
+	margin-left: 70px;
+	margin-right: 100px;
+}
